@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Data files (if you want to keep CSV out of Git)
+data/*.csv
+data/*.zip
+
+# Models
+models/*.pkl
+
+# Figures (optional)
+figures/*.png
+
+# Environment files
+*.env
+.env/
+
+# Auto-generated files
+*.egg-info/
